@@ -3,9 +3,9 @@ header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
 
 $host = 'localhost';
-$dbname = 'databaseig'; 
-$user = 'root';
-$pass = '';
+$dbname = 'lvmrcia-s-tutorials_db'; 
+$user = 'lvmrcia-s-tutorials_u';
+$pass = 'oA9KwPaij7B2IgH';
 
 try {
     $conn = new mysqli($host, $user, $pass, $dbname);

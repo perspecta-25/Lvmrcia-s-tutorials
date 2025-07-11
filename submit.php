@@ -13,9 +13,9 @@ if (empty($email) || empty($message)) {
 }
 
 $host = 'localhost';
-$dbName = 'databaseig'; 
-$dbUsername = 'root';
-$dbPassword = '';
+$dbName = 'lvmrcia-s-tutorials_db'; 
+$dbUsername = 'lvmrcia-s-tutorials_u';
+$dbPassword = 'oA9KwPaij7B2IgH';
 
 $conn = new mysqli($host, $dbUsername, $dbPassword, $dbName);
 

@@ -1,9 +1,9 @@
 <?php
 // Database configuration
 $host = 'localhost';
-$dbname = 'grayscale_db';
-$user = 'grayscale_u';
-$pass = '9dSCEu3W16tJTDT';
+$dbname = 'lvmrcia-s-tutorials_db';
+$user = 'lvmrcia-s-tutorials_u';
+$pass = 'oA9KwPaij7B2IgH';
 
 // Connect to MySQL
 $conn = new mysqli($host, $user, $pass, $db);
