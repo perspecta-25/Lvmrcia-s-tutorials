@@ -11153,7 +11153,7 @@ body {
   rgba(213, 188, 167, 0.7) 10%,   
   rgba(213, 188, 167, 0.5) 30%,   
   rgba(213, 188, 167, 0) 50%     
-), url("../assets/img/bg-signup.jpg");
+), url("../../assets/img/bg-signup.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
