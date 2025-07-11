@@ -1,7 +1,7 @@
     <?php 
     include 'common/header_start.php';  
     ?>
-    <link rel="stylesheet" href="/css/photoshop.css">
+    <link rel="stylesheet" href="css/photoshop.css">
 
     <?php
     include 'common/header_end.php'; 

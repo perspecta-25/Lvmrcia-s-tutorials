@@ -1,7 +1,7 @@
     <?php 
     include 'common/header_start.php';  
     ?>
-    <link rel="stylesheet" href="/css/after-effects.css">
+    <link rel="stylesheet" href="css/after-effects.css">
 
     <?php
     include 'common/header_end.php'; 

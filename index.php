@@ -28,7 +28,7 @@
                         Adobe Photoshop is the industry standard for editing images and creating graphics. With its powerful tools and features, you can create stunning visuals for your website or project. </p>
                 </div>
             </div>
-            <img class="img-fluid" src="/assets/img/ipad.png" alt="..." />
+            <img class="img-fluid" src="assets/img/ipad.png" alt="..." />
 
         </div>
     </section>
@@ -37,7 +37,7 @@
         <div class="container px-4 px-lg-5">
             <!-- Featured Project Row-->
             <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
-                <div class="col-xl-8 col-lg-7"><img class="img-fluid project-img" style="max-width: 700px; max-height: 500px;" src="/assets/img/ae.png" alt="..." />
+                <div class="col-xl-8 col-lg-7"><img class="img-fluid project-img" style="max-width: 700px; max-height: 500px;" src="assets/img/ae.png" alt="..." />
                 </div>
                 <div class="col-xl-4 col-lg-5">
                     <div class="featured-text text-center text-lg-left">
@@ -55,12 +55,12 @@
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-7">
-                    <img class="img-fluid project-img" style="max-width: none; max-height: 500px;" src="/assets/img/photoshop.png" alt="..." />
+                    <img class="img-fluid project-img" style="max-width: none; max-height: 500px;" src="assets/img/photoshop.png" alt="..." />
                 </div>
             </div>
             <!-- Project One Row-->
             <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
-                <div class="col-lg-6"><img class="img-fluid" src="/assets/img/demo-image-01.jpg" alt="..." /></div>
+                <div class="col-lg-6"><img class="img-fluid" src="assets/img/demo-image-01.jpg" alt="..." /></div>
                 <div class="col-lg-6">
                     <div class="bg-black text-center h-100 project">
                         <div class="d-flex h-100">
@@ -74,7 +74,7 @@
             </div>
             <!-- Project Two Row-->
             <div class="row gx-0 justify-content-center">
-                <div class="col-lg-6"><img class="img-fluid" src="/assets/img/demo-image-02.jpg" alt="..." /></div>
+                <div class="col-lg-6"><img class="img-fluid" src="assets/img/demo-image-02.jpg" alt="..." /></div>
                 <div class="col-lg-6 order-lg-first">
                     <div class="bg-black text-center h-100 project">
                         <div class="d-flex h-100">
